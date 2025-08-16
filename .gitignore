@@ -3,9 +3,8 @@ __pycache__/
 *.py[codz]
 *$py.class
 
-# folders
-input
-
+# Large train file
+input/train.csv
 
 # C extensions
 *.so
